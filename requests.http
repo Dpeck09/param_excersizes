@@ -1,0 +1,4 @@
+GET http://localhost:3000/addition/1/3
+
+### 
+GET http://localhost:3000/guess_segment/32
